@@ -1,4 +1,4 @@
-<!-- gf-brief source=5615bd817a23ac492a7abfa5f4468ec741cba7f593a9ffdabf9b9f0f93d7455a written=2026-10-09T12:35:37+03:00 -->
+<!-- gf-brief source=5615bd817a23ac492a7abfa5f4468ec741cba7f593a9ffdabf9b9f0f93d7455a written=2026-10-09T12:38:43+03:00 -->
 # Galleyweave
 
 ## What it is
