@@ -1,0 +1,25 @@
+The app does not request any permissions. Onboarding does not ask for an account or a permission, and no usage-description strings appear.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt. Meals are bundled or taken from TheMealDB; the person does not write recipes.
+
+Galleyweave is a cook-along for two dishes at once. A person saves meals, places one on Main and one on Second, then follows a single interleaved line of checks and steps until both dishes are done. It is for someone cooking a pair of recipes on one night, not for shopping lists or calorie tracking.
+
+No credentials or demo account are needed. A cold launch shows a system launch screen, then three onboarding pages, each with Skip at the top. Skip opens the empty kitchen. Page one is titled Two dishes, one line. with body Save a meal, then fill the open place. and button Continue. Page two is titled Follow the lit step. with body Mark it done. Move to the other dish when it needs you. and button Next. Page three is titled Finish the night. with body When both dishes are done, the pair stays on this device. and button START. Continue and Next advance; START opens the kitchen.
+
+The empty kitchen shows The kitchen is clear. and Fill a main and a second dish. Tap Place to open Saved meals. On a new device this is Nothing is saved yet. even though four meals sit on the Search shelf. Tap Search, Save a meal such as Herb chicken, Close, then tap that row (Place) to seat Main. Place again to seat Lemon greens on Second. When the chip is Seated, The line lists every Check and Step. Start stays dim until then. Tap Start. The chip is Lit. A step rail of beads replaces The line. Done finishes the lit check or untimed step. On a timed step the first tap starts the wait and the control reads Timing until the wait ends; the wait shows the full second count. Other dish lights a remaining item on the other dish. Undo puts back the last Done or Other dish. When finished, Both dishes are served. and both places read Open. A Timing wait does not come back after leaving the app; tap Done again to start that wait.
+
+Saved meals, Search, and Settings open over the kitchen; Close returns. The gear is Settings. Place is disabled once both places are filled, so Saved meals and Search cannot be opened from the kitchen while both dishes are seated or lit. Search opens only from Saved meals. Search meals waits a short pause; results stop at eight. Looking appears while a lookup is in flight. Search missed. offers Try again, and Shelf still lists meals on this device.
+
+In Settings, TheMealDB opens the TheMealDB site, Contact opens the support page, Replay onboarding shows the three pages again while saved meals and nights stay, and Reset opens Reset tonight? with Saved recipes and served nights on this device will be removed. and buttons Reset and Cancel. Confirming Reset returns to onboarding. This night could not be read. uses the same Reset path.
+
+A first run in the Simulator can skip onboarding, already place Herb chicken on Main and Lemon greens on Second, and show one served night and one lane change from the day before.
+
+Search can look up meals from TheMealDB. Saved meals, the open night, and served nights stay on this device. The Settings footer states Meals from TheMealDB stay credited. Everything else stays on this device. Contact in Settings opens the support page.
+
+The English interface does not change by region. There is no region lock. Night dates follow the device calendar and locale.
+
+No licence or regulated-industry paperwork applies. The app is a Food & Drink cook-along that shows cooking checks and steps.
+
+The app shows cooking checks and steps, not health, medical, or product-health information. It is a personal log only and gives no recommendations.
+
+The app does not scan barcodes or QR codes.

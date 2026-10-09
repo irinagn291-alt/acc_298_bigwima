@@ -1,0 +1,15 @@
+Version 1.0 is the first release of Galleyweave, a cook-along for two dishes at once.
+
+• Onboarding pages Two dishes, one line., Follow the lit step., and Finish the night., with Skip, Continue, Next, and START
+• Kitchen headed Cook both tonight, with Main and Second places and chips Open, Seated, Lit, or Served
+• Place a saved meal on an Open place, then Start when both dishes are Seated
+• The line of Check and Step items before Start
+• A lit bead with Done, Timing, Other dish, and Undo while the night is running
+• Both dishes are served. when the pair is finished
+• Saved meals, including a Nights history
+• Search meals in the TheMealDB catalog, with a shelf on this device when the lookup misses
+• Four meals on this device from the first launch: Herb chicken, Lemon greens, Butter beans, and Rice pilaf
+• Settings with TheMealDB, Contact, Replay onboarding, and Reset tonight?
+• Served nights and Lane changes counts
+• The screen stays awake while the chip is Lit
+• English interface, portrait only, light appearance, iPhone and iPad

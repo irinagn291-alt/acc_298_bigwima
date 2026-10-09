@@ -1,0 +1,1 @@
+A cook-along for two dishes at once. Place one meal on Main and one on Second, then follow a single line of checks and steps until both dishes are done.

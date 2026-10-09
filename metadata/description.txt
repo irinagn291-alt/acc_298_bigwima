@@ -1,0 +1,21 @@
+Galleyweave is a cook-along for two dishes at once. A person saves meals, places one on Main and one on Second, then follows a single interleaved line of checks and steps until both dishes are done. It is for someone cooking a pair of recipes on one night, not for shopping lists or calorie tracking.
+
+• Two dishes, one line: a Main and a Second share one cook order
+• Place a saved meal on an Open place
+• Saved meals, including a Nights history
+• Search meals in the TheMealDB catalog, with a shelf on this device when the lookup misses
+• Save a found meal
+• The line of Check and Step items before Start
+• Start when both dishes are Seated
+• A lit bead for the current check or step, with Done, Timing, Other dish, and Undo
+• Timed steps wait on this device before the line advances
+• Served nights and Lane changes counts
+• Both dishes are served. when the pair is finished
+• Replay onboarding
+• Reset tonight? to clear this device
+• Contact and a TheMealDB credit
+• The screen stays awake while the chip is Lit
+
+Four meals are on this device from the first launch. They appear under On this device or Shelf in Search and are not in Saved until Save: Herb chicken, Lemon greens, Butter beans, and Rice pilaf.
+
+Unfinished work resumes after leaving the app. Saved meals, the open night, and served nights stay on this device.
