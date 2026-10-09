@@ -26,6 +26,8 @@ submission_information({
 skip_binary_upload true
 skip_screenshots false
 screenshots_path("./fastlane/screenshots")
+# `bn` is not an App Store locale. Unknown folders are skipped; staged shots stay put.
+ignore_language_directory_validation true
 overwrite_screenshots true
 screenshot_processing_timeout 600
 skip_app_version_update true
